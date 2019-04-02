@@ -86,6 +86,10 @@ To quantify the differential isoform usage between cells, we defined the score D
 
 $$\sum_{i=1}^{4} \frac{c_i}{d}   whereas c = a \quad \bigcup b; d = a \quad \bigcup b
 
+
+$$\sum_{i=1}^n \frac{1}{i^2} \quad and \quad \prod_{i=1}^n \frac{1}{i^2} \quad and \quad \bigcup_{i=1}^{2} R$$
+
+
 where gene j has isoform set a , and set b respectively in cell line X and Y ; c is the number of isoform intersection for set a and set b; d is the number of isoform union for set a and set b. Thus D sums up scores when comparing the control sample and treated samples.
 
 ----------------------------
