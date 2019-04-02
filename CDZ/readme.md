@@ -43,7 +43,7 @@ sample4	2849	2666	6876	954	389	3851	4870
 <img src="https://github.com/BioinformaticsSTU/SMRCanaToolkits/blob/master/CDZ/bar.png" width = "400" height = "400"  />
 bar.png
 
-![barh_align.png](https://github.com/BioinformaticsSTU/SMRCanaToolkits/blob/master/CDZ/barh_align.png)
+<img src="https://github.com/BioinformaticsSTU/SMRCanaToolkits/blob/master/CDZ/barh_align.png" width = "400" height = "400"  />
 barh_align.png
 
 ----------------------------
