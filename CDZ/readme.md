@@ -131,10 +131,10 @@ GO_Biological_Process_2018	intraciliary retrograde transport (GO:0035721)	3/11	0
 GO_Biological_Process_2018	double-strand break repair (GO:0006302)	11/142	0.00021322248264889278	0.09669639588127289	0.00028269216039523195	0.12820089473923768	-1.9459585449063224	16.4495269901104	RAD52;RECQL4;RNF168;RAD51B;HERC2;RECQL5;KDM4D;EME2;CHEK2;ATM;POLK
 ```
 
-<img src="https://github.com/BioinformaticsSTU/SMRCanaToolkits/blob/master/CDZ/GO enrichment barh.png"  width="400" height="400" />
+<img src="https://github.com/BioinformaticsSTU/SMRCanaToolkits/blob/master/CDZ/GO enrichment barh.png"  width="500" height="450" />
 GO enrichment barh.png
 
-<img src="https://github.com/BioinformaticsSTU/SMRCanaToolkits/blob/master/CDZ/GO enrichment scatter.png" width="400" height="400" />
+<img src="https://github.com/BioinformaticsSTU/SMRCanaToolkits/blob/master/CDZ/GO enrichment scatter.png" width="500" height="400" />
 GO enrichment scatter.png
 
 
