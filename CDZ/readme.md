@@ -84,10 +84,8 @@ ENSG00000138767	ENST00000504123,ENST00000512485	ENST00000504123,ENST00000512485	
 
 To quantify the differential isoform usage between cells, we defined the score D of each gene as follows:
 
-$$\sum_{i=1}^{4} \frac{c_i}{d}   whereas c = a \quad \bigcup b; d = a \quad \bigcup b
+<img src="https://github.com/BioinformaticsSTU/SMRCanaToolkits/blob/master/CDZ/formula.png"  />
 
-
-$$\sum_{i=1}^n \frac{1}{i^2} \quad and \quad \prod_{i=1}^n \frac{1}{i^2} \quad and \quad \bigcup_{i=1}^{2} R$$
 
 
 where gene j has isoform set a , and set b respectively in cell line X and Y ; c is the number of isoform intersection for set a and set b; d is the number of isoform union for set a and set b. Thus D sums up scores when comparing the control sample and treated samples.
