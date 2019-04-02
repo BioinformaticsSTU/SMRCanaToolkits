@@ -39,10 +39,10 @@ sample2	2638	2737	5562	1170	462	3130	5397
 sample3	1689	1628	2911	431	261	2104	3267
 sample4	2849	2666	6876	954	389	3851	4870
 ```
-![bar.png](https://bitbucket.org/repo/4gEBMd/images/3120745382-Slide1.jpg)
+![bar.png](https://github.com/BioinformaticsSTU/SMRCanaToolkits/blob/master/CDZ/bar.png)
 bar.png
 
-![barh_align.png](https://bitbucket.org/repo/4gEBMd/images/3120745382-Slide1.jpg)
+![barh_align.png](https://github.com/BioinformaticsSTU/SMRCanaToolkits/blob/master/CDZ/barh_align.png)
 barh_align.png
 ----------------------------
 ## get_score_D.py: calculate score_D of each gene.
