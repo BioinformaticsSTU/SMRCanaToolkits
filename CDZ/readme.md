@@ -40,10 +40,13 @@ sample3	1689	1628	2911	431	261	2104	3267
 sample4	2849	2666	6876	954	389	3851	4870
 ```
 ![bar.png](https://github.com/BioinformaticsSTU/SMRCanaToolkits/blob/master/CDZ/bar.png)
+<img src="https://github.com/BioinformaticsSTU/SMRCanaToolkits/blob/master/CDZ/bar.png" width = "100" height = "100"  />
+
 bar.png
 
 ![barh_align.png](https://github.com/BioinformaticsSTU/SMRCanaToolkits/blob/master/CDZ/barh_align.png)
 barh_align.png
+
 ----------------------------
 ## get_score_D.py: calculate score_D of each gene.
 ----------------------------
